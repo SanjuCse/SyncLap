@@ -1,0 +1,51 @@
+						Notes
+						------
+Thread can be implemented in 2 ways
+------------------------------------
+1. Implementing Runnable Interface
+2. Extending Thread Class
+
+Function has 4 Properties
+---------------------------
+1. Name of the function 
+2. Parameters List
+3. Body Of the function 
+4. Return Type
+
+Lambda Conversion from Classical way of creation
+--------------------------------------------------
+1. In a interface all method are public so we we can remove this.
+2. With the type inference compiler can detect a method's return type
+
+Functional Interface
+--------------------
+Any interface that is having single abstract method, then that interface is called functional interface.
+@FunctionalInterface is used to indicate a Functional Interface
+
+Lambda
+--------
+Lambdas are smart anonymous functions they use type inference and dynamic typed language like feature using already available invoke dynamic functionality 
+Other than reducing the code Lambdas Optimize the memory.
+"Lambdas are smart"
+
+Functions having 
+------------------------
+1. Name of the function 
+2. Parameters List
+3. Body Of the function 
+4. Return Type
+5. Access Modifiers 
+6. Return Statements
+
+Lambda Having
+--------------------
+1. A list OF parameters
+2. An Arrow -> which separates the list of parameters from the body of the Lambda function
+3. The BVody of the Lambda 
+
+Lambda Writing
+--------------------
+1. No Parameter - No Return Type
+2. With Parameter
+3. With Return Type
+4. Multi-line Function
