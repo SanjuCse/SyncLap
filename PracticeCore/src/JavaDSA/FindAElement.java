@@ -1,6 +1,5 @@
 package JavaDSA;
 
-import java.util.Scanner;
 
 public class FindAElement {
 	public static void main(String[] args) {
